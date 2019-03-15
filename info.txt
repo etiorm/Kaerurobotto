@@ -1,0 +1,8 @@
+Comme explique lors de la conversation telephonique ce projet a ete develloppe par 5 personnes:
+Baptiste Debussey et moi meme en tant que dev, Marie Hauuy en tant que game disigner, Swann Klein pour les graphisme et Aurelien Montero pour la bande son.
+
+Le projet a ete developpe sur un weekend (samedi 10h jusqu'a dimanche 20h)
+
+Pour tester le jeu, il faut idealement avoir des controlleurs xbox (2 a 4 joueures). Dans le cas contraire, passer le clavier en QWERTY permettra de pouvoir au moin controller un personnage mais le jeu perdra de son interret.
+
+N'ayant pas Unity sur mon PC, je n'ai pas teste la solution et ne garenti donc pas le bon fonctionnement de celle-ci, bien qu'elle soit supposee etre la version a l'origine de l'executable present ici.
